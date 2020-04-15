@@ -9,12 +9,29 @@ body {
     background-blend-mode: lighten;
 }
 
-.description, h1, h2, h3 {
+.description, h1, h2, h3, .h4 {
     color: rgb(31, 87, 23) !important;    
+}
+
+.label117 {
+    font-size: 1.17em;
+}
+
+.labelLarge {
+    font-weight: 700;
+    font-size: large;
+}
+
+.labelMedium {
+    font-weight: 700;
+    font-size: medium;
+}
+
+.highlight {
+    color: rgb(204, 204, 204);
 }
 
 .hr {
     border-bottom: 1px solid #3d494f;
     padding-bottom: 1rem;
-    margin-bottom: 2rem;    
 }
