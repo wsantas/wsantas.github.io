@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>William Santasiero</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-04-14T21:13:12-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>William Santasiero</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>William Santasiero</title>
+   <link href="http://localhost:4000/2020/04/14/WS-resume/"/>
+   <updated>2020-04-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2020/04/14/-WS-resume</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/wsantas&quot;&gt;William Santasiero&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

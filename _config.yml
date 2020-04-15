@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+plugins: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            William Santasiero
+tagline:          'Meeting your software needs'
+description:      'Solving problems for others while bridging business and technology'
+url:              https://wsantas.github.io/
+baseurl:          /
+
+author:
+  name:           'William Santasiero'
+  url:            https://www.linkedin.com/in/wsantasiero/
+
+paginate:         5
+
+github:
+  repo:           https://github.com/wsantas
