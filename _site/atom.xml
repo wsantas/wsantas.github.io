@@ -4,7 +4,7 @@
  <title>William Santasiero</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-15T16:42:07-04:00</updated>
+ <updated>2020-04-16T16:17:58-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>William Santasiero</name>
@@ -25,23 +25,59 @@
 &lt;p class=&quot;description&quot; property=&quot;description&quot;&gt;
 Further my craft in software development, discover opportunities to advance my career/business life, continue to provide for my family, find ways to give to others around me, and learn better ways to live a sustainable/resilient future for both myself and Mother Earth. 
 &lt;/p&gt;
-
-&lt;section&gt;
-&lt;div class=&quot;card&quot;&gt;
-    &lt;h3 id=&quot;education&quot; class=&quot;labelLarge h4, hr&quot;&gt; Education &lt;i class=&quot;fas fa-graduation-cap&quot;&gt;&lt;/i&gt; 
-    &lt;/h3&gt;
-    &lt;section&gt;
-        &lt;header class=&quot;&quot;&gt;
-            &lt;p class=&quot;labelMedium h4&quot;&gt; 
-                &lt;time datetime=&quot;2003-05-01T00:00:00+00:00&quot;&gt;May 2003&lt;/time&gt;
-            &lt;/p&gt;
-            &lt;h3 class=&quot;labelMedium&quot;&gt; 
-                &lt;span class=&quot;highlight&quot;&gt;Bachelor&lt;/span&gt; of &lt;span class=&quot;highlight&quot;&gt;Computer Science&lt;/span&gt;(cum laude) from &lt;span class=&quot;highlight&quot;&gt;Florida Insitute of Technology&lt;/span&gt;
-            &lt;/h3&gt;
-        &lt;/header&gt;        
-    &lt;/section&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+    &lt;div class=&quot;left-column&quot;&gt;
+        &lt;div class=&quot;resume-type-column&quot;&gt; 
+            &lt;h3 id=&quot;experience&quot; class=&quot;label-large h4, hr&quot;&gt; Experience &lt;i class=&quot;fas fa-briefcase&quot;&gt;&lt;/i&gt;&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;card&quot;&gt;        
+            &lt;div class=&quot;container&quot;&gt;       
+                &lt;div class=&quot;experience-header&quot;&gt;     
+                    &lt;p class=&quot;label-medium&quot;&gt;Ace Industries - Norcross, Georgia Aug 2019 - Present&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Software Architect &lt;i class=&quot;fa fa-home&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; [Remote Position] &lt;/p&gt; 
+                &lt;/div&gt;
+                &lt;div class=&quot;experience-header&quot;&gt;
+                    &lt;p class=&quot;label-small&quot;&gt;Software Architect in charge of Ace Industries digital transformation. This includes legacy application migrations, infrastructure improvements, software process improvements and performance enhancements&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Migrate a legacy TakeStock system to a modern ERP (Odoo v13)&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Migrate a legacy AspDotNet Storefront to a modern eCommerce platform (BigCommerce/Magento)&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Refactor legacy dispatch board into Single page Django app w/ Django Rest Framework&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Migrate legacy software off of Azure to AWS for consolidation of costs&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Create ETL paths for ERP data into new system&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Decide technology decisions to best drive development in the future&lt;/p&gt;
+            &lt;/div&gt;        
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;right-column&quot;&gt;
+        &lt;div class=&quot;resume-type-column&quot;&gt; 
+            &lt;h3 id=&quot;experience&quot; class=&quot;label-large h4, hr&quot;&gt; Skills &lt;i class=&quot;fas fa-tools&quot;&gt;&lt;/i&gt;&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;card&quot;&gt;        
+            &lt;div class=&quot;container&quot;&gt;       
+                &amp;nbsp;                
+            &lt;/div&gt;        
+        &lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;/section&gt;
+&lt;div class=&quot;flex-container&quot;&gt;
+    &lt;div&gt;
+        &lt;h3 id=&quot;education&quot; class=&quot;label-large h4, hr&quot;&gt; Education &lt;i class=&quot;fas fa-graduation-cap&quot;&gt;&lt;/i&gt; 
+        &lt;/h3&gt;
+        &lt;div class=&quot;card&quot;&gt;
+            &lt;section&gt;
+                &lt;header class=&quot;&quot;&gt;
+                    &lt;p class=&quot;label-medium h4&quot;&gt; 
+                        &lt;time datetime=&quot;2003-05-01T00:00:00+00:00&quot;&gt;May 2003&lt;/time&gt;
+                    &lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt; 
+                        &lt;span class=&quot;highlight&quot;&gt;Bachelor&lt;/span&gt; of &lt;span class=&quot;highlight&quot;&gt;Computer Science&lt;/span&gt;(cum laude) from &lt;span class=&quot;highlight&quot;&gt;Florida Insitute of Technology&lt;/span&gt;
+                    &lt;/p&gt;
+                &lt;/header&gt;        
+            &lt;/section&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;/article&gt;
 </content>
  </entry>

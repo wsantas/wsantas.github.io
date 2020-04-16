@@ -13,18 +13,23 @@ body {
     color: rgb(31, 87, 23) !important;    
 }
 
-.label117 {
+.label-117 {
     font-size: 1.17em;
 }
 
-.labelLarge {
+.label-large {
     font-weight: 700;
     font-size: large;
 }
 
-.labelMedium {
+.label-medium {
     font-weight: 700;
     font-size: medium;
+}
+
+.label-small {
+  font-weight: 700;
+  font-size: small;
 }
 
 .highlight {
@@ -35,3 +40,51 @@ body {
     border-bottom: 1px solid #3d494f;
     padding-bottom: 1rem;
 }
+
+p {
+    margin: 0;  
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+
+  .flex-container {
+    display: flex;
+    opacity: 100;
+  }
+  
+  .flex-container > div > .card {
+    background-color: rgba(255, 255, 255, 0.486);
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  .experience-header {
+    padding-bottom: 10px;
+  }
+
+  .resume-type-column {
+    padding: 0px 20px 0px 20px;
+  }
+
+  .left-column {
+    width: 100%;
+  }
+
+  .right-column {
+    width: 50%;
+  }
