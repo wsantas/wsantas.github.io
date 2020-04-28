@@ -4,7 +4,7 @@
  <title>William Santasiero</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-16T16:17:58-04:00</updated>
+ <updated>2020-04-28T06:03:28-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>William Santasiero</name>
@@ -33,7 +33,8 @@ Further my craft in software development, discover opportunities to advance my c
         &lt;div class=&quot;card&quot;&gt;        
             &lt;div class=&quot;container&quot;&gt;       
                 &lt;div class=&quot;experience-header&quot;&gt;     
-                    &lt;p class=&quot;label-medium&quot;&gt;Ace Industries - Norcross, Georgia Aug 2019 - Present&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Ace Industries - Norcross, Georgia &lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Aug 2019 - Present&lt;/p&gt;
                     &lt;p class=&quot;label-medium&quot;&gt;Software Architect &lt;i class=&quot;fa fa-home&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; [Remote Position] &lt;/p&gt; 
                 &lt;/div&gt;
                 &lt;div class=&quot;experience-header&quot;&gt;
@@ -47,14 +48,47 @@ Further my craft in software development, discover opportunities to advance my c
                 &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Decide technology decisions to best drive development in the future&lt;/p&gt;
             &lt;/div&gt;        
         &lt;/div&gt;
+        &lt;div class=&quot;card&quot;&gt;        
+            &lt;div class=&quot;container&quot;&gt;       
+                &lt;div class=&quot;experience-header&quot;&gt;     
+                    &lt;p class=&quot;label-medium&quot;&gt;Accent Technologies - Melbourne, Florida &lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;May 2019 - Aug 2019&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;VP of Engineering&lt;/p&gt; 
+                &lt;/div&gt;
+                &lt;div class=&quot;experience-header&quot;&gt;
+                    &lt;p class=&quot;label-small&quot;&gt;Responsible for Accent’s IT transformation. In charge of getting the company prepared for SOCs audits including security remediation, defining and recording KPIs, architecture reviews/approvals, implementing a culture of team first, implementing a culture of unit tests, creating career plans for direct reports, hiring, termination, and other aspect of transforming a product company into an industry standard IT firm.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;experience-header&quot;&gt;                         
+                    &lt;p class=&quot;label-medium&quot;&gt;June 2018 - May 2019&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Senior Developer&lt;/p&gt; 
+                &lt;/div&gt;
+                &lt;div class=&quot;experience-header&quot;&gt;
+                    &lt;p class=&quot;label-small&quot;&gt;Dev lead in charge of architecture, implementation, and maintenance of the Connector Framework. This framework is used to feed data sources into Accent’s analytics engine. Most notably Microsoft Exchange and Salesforce CRM.&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Architect and lead on connector framework ecosystem utilizing microservices on AWS&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Refactor micro service orchestrator architecture into an event stream reactive architecture&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Take control of failed offshore projects and refactor into our framework. This includes a ReactJS UI admin module tied into the Connector back-end&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Increase unit test code coverage. Mentor on TDD methodology&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Manage team development tasks including the agile process, code reviews, ticket tracking, and mentoring&lt;br /&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;        
+        &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;right-column&quot;&gt;
         &lt;div class=&quot;resume-type-column&quot;&gt; 
-            &lt;h3 id=&quot;experience&quot; class=&quot;label-large h4, hr&quot;&gt; Skills &lt;i class=&quot;fas fa-tools&quot;&gt;&lt;/i&gt;&lt;/h3&gt;
+            &lt;h3 id=&quot;experience&quot; class=&quot;label-large h4, hr&quot;&gt; Technologies &lt;i class=&quot;fas fa-tools&quot;&gt;&lt;/i&gt;&lt;/h3&gt;
         &lt;/div&gt;
         &lt;div class=&quot;card&quot;&gt;        
             &lt;div class=&quot;container&quot;&gt;       
-                &amp;nbsp;                
+                &lt;div class=&quot;label-medium&quot;&gt;Python&lt;/div&gt; 
+                &lt;div class=&quot;label-medium&quot;&gt;Java&lt;/div&gt;   
+                &lt;div class=&quot;label-medium&quot;&gt;C#&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;JS Frameworks&lt;/div&gt;   
+                &lt;div class=&quot;label-medium&quot;&gt;Django&lt;/div&gt;  
+                &lt;div class=&quot;label-medium&quot;&gt;Spring&lt;/div&gt; 
+                &lt;div class=&quot;label-medium&quot;&gt;RDBMS&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;Elastic Search&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;AWS, Azure, CF&lt;/div&gt;              
             &lt;/div&gt;        
         &lt;/div&gt;
     &lt;/div&gt;
