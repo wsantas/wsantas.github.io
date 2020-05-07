@@ -4,7 +4,7 @@
  <title>William Santasiero</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-28T06:03:28-04:00</updated>
+ <updated>2020-05-07T18:45:09-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>William Santasiero</name>
@@ -71,6 +71,40 @@ Further my craft in software development, discover opportunities to advance my c
                 &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Increase unit test code coverage. Mentor on TDD methodology&lt;br /&gt;
                 &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Manage team development tasks including the agile process, code reviews, ticket tracking, and mentoring&lt;br /&gt;
                 &lt;/p&gt;
+            &lt;/div&gt;        
+        &lt;/div&gt;
+        &lt;div class=&quot;card&quot;&gt;        
+            &lt;div class=&quot;container&quot;&gt;       
+                &lt;div class=&quot;experience-header&quot;&gt;     
+                    &lt;p class=&quot;label-medium&quot;&gt;Scicom Infrastructure Services - Atlanta, Georgia&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Dec 2017 - June 2018&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Enterprise Solutions Manager &lt;i class=&quot;fa fa-home&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; [Remote Position] &lt;/p&gt; 
+                &lt;/div&gt;
+                &lt;div class=&quot;experience-header&quot;&gt;
+                    &lt;p class=&quot;label-small&quot;&gt;Pre-sales Solutions Manager running a team of Performance Architects for Scicom’s Enterprise Performance Management Services&lt;/p&gt;
+                &lt;/div&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; SME on APM solutions including AppDynamics&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; SME on Enterprise Performance Software and Technologies&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Manage a team of 5 Performance Architects&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Engage clients, provide demos and expertise, gather requirements&lt;br /&gt;
+                &lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Support the sales process including presentations to C-level execs&lt;br /&gt;&lt;/p&gt;
+            &lt;/div&gt;        
+        &lt;/div&gt;
+        &lt;div class=&quot;card&quot;&gt;        
+            &lt;div class=&quot;container&quot;&gt;       
+                &lt;div class=&quot;experience-header&quot;&gt;     
+                    &lt;p class=&quot;label-medium&quot;&gt;Daugherty Business Solutions - Atlanta, Georgia&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Apr 2015 - Dec 2017&lt;/p&gt;
+                    &lt;p class=&quot;label-medium&quot;&gt;Senior Consultant/Application Architect &lt;i class=&quot;fa fa-home&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; [Remote Position] &lt;/p&gt; 
+                &lt;/div&gt;
+                &lt;div class=&quot;experience-header&quot;&gt;
+                    &lt;p class=&quot;label-small&quot;&gt;Act as an IT Consultant for Daugherty’s client list including planning, design, and implementation of client projects&lt;/p&gt;
+                &lt;/div&gt; 
+                &lt;p class=&quot;label-small&quot;&gt;Revenue Analytics - Atlanta&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;The Home Depot – Crown Bolt – Atlanta&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;The Home Depot – BOIS Android Alerts - Atlanta&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;Federal Reserve Bank of St. Louis – St. Louis&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;The Home Depot – Point of Sales - Atlanta&lt;/p&gt;
             &lt;/div&gt;        
         &lt;/div&gt;
     &lt;/div&gt;
