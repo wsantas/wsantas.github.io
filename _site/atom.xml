@@ -4,7 +4,7 @@
  <title>William Santasiero</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-08T18:03:55-04:00</updated>
+ <updated>2020-05-08T18:06:19-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>William Santasiero</name>
@@ -139,7 +139,7 @@ Further my craft in software development, discover opportunities to advance my c
         &lt;/div&gt;
         &lt;div class=&quot;card&quot;&gt;        
             &lt;div class=&quot;container&quot;&gt;       
-                &lt;div class=&quot;label-medium&quot;&gt;Slacklining&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fas fa-balance-scale-right&quot;&gt;&lt;/i&gt; Slacklining&lt;/div&gt;
                 &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fab fa-btc&quot;&gt;&lt;/i&gt; Crypto&lt;/div&gt;
                 &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fas fa-tractor&quot;&gt;&lt;/i&gt; Permaculture&lt;/div&gt;
                 &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fas fa-heartbeat&quot;&gt;&lt;/i&gt; Health and Fitness&lt;/div&gt;
