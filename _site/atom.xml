@@ -4,7 +4,7 @@
  <title>William Santasiero</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-07T18:45:09-04:00</updated>
+ <updated>2020-05-08T17:34:00-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>William Santasiero</name>
@@ -123,6 +123,19 @@ Further my craft in software development, discover opportunities to advance my c
                 &lt;div class=&quot;label-medium&quot;&gt;RDBMS&lt;/div&gt;
                 &lt;div class=&quot;label-medium&quot;&gt;Elastic Search&lt;/div&gt;
                 &lt;div class=&quot;label-medium&quot;&gt;AWS, Azure, CF&lt;/div&gt;              
+            &lt;/div&gt;        
+        &lt;/div&gt;
+        &lt;div class=&quot;resume-type-column&quot;&gt; 
+            &lt;h3 id=&quot;experience&quot; class=&quot;label-large h4, hr&quot;&gt; Interests &lt;i class=&quot;fab fa-fort-awesome-alt&quot;&gt;&lt;/i&gt;&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;card&quot;&gt;        
+            &lt;div class=&quot;container&quot;&gt;       
+                &lt;div class=&quot;label-medium&quot;&gt;Slacklining&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fab fa-btc&quot;&gt;&lt;/i&gt; Crypto&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fas fa-tractor&quot;&gt;&lt;/i&gt; Permaculture&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fas fa-heartbeat&quot;&gt;&lt;/i&gt; Health and Fitness&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fab fa-pagelines&quot;&gt;&lt;/i&gt; Homeopathy&lt;/div&gt;
+                &lt;div class=&quot;label-medium&quot;&gt;&lt;i class=&quot;fas fa-fish&quot;&gt;&lt;/i&gt; Nutrition&lt;/div&gt;
             &lt;/div&gt;        
         &lt;/div&gt;
     &lt;/div&gt;
