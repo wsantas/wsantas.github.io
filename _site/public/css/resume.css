@@ -27,6 +27,11 @@ body {
     font-size: medium;
 }
 
+.label-experience-last {
+  font-weight: bolder;
+  font-size: .48em;
+}
+
 .label-small {
   font-weight: 700;
   font-size: small;

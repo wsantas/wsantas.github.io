@@ -27,6 +27,10 @@ body {
     font-size: medium;
 }
 
+.label-400 {
+  font-weight: 400;
+}
+
 .label-small {
   font-weight: 700;
   font-size: small;
