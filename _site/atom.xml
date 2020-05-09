@@ -4,7 +4,7 @@
  <title>William Santasiero</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-09T18:52:48-04:00</updated>
+ <updated>2020-05-09T18:54:19-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>William Santasiero</name>
@@ -100,11 +100,11 @@ Further my craft in software development, discover opportunities to advance my c
                 &lt;div class=&quot;experience-header&quot;&gt;
                     &lt;p class=&quot;label-small&quot;&gt;Act as an IT Consultant for Daugherty’s client list including planning, design, and implementation of client projects&lt;/p&gt;
                 &lt;/div&gt; 
-                &lt;p class=&quot;label-small&quot;&gt;Revenue Analytics - Atlanta&lt;/p&gt;
-                &lt;p class=&quot;label-small&quot;&gt;The Home Depot – Crown Bolt – Atlanta&lt;/p&gt;
-                &lt;p class=&quot;label-small&quot;&gt;The Home Depot – BOIS Android Alerts - Atlanta&lt;/p&gt;
-                &lt;p class=&quot;label-small&quot;&gt;Federal Reserve Bank of St. Louis – St. Louis&lt;/p&gt;
-                &lt;p class=&quot;label-small&quot;&gt;The Home Depot – Point of Sales - Atlanta&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Revenue Analytics - Atlanta&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; The Home Depot – Crown Bolt – Atlanta&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; The Home Depot – BOIS Android Alerts - Atlanta&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; Federal Reserve Bank of St. Louis – St. Louis&lt;/p&gt;
+                &lt;p class=&quot;label-small&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt; The Home Depot – Point of Sales - Atlanta&lt;/p&gt;
             &lt;/div&gt;        
         &lt;/div&gt;
         &lt;div class=&quot;card&quot;&gt;        
